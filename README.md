@@ -185,7 +185,7 @@ The complete **project report** is available in the [`Docs/`](https://github.com
 
 <div align="center">
 
-### Md. Hasibul Tamim
+### Murad Hasan Tamim
 
 *Software Engineering Student & Full-Stack Developer*
 
